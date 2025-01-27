@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Fri, 24 Jan 2025 20:33:30 +0000
+Source: ros-jazzy-rmw-dds-common
+Binary: ros-jazzy-rmw-dds-common
+Built-For-Profiles: noudeb
+Architecture: all
+Version: 0.0.1
+Distribution: unstable
+Urgency: low
+Maintainer: Your Name <your.email@example.com>
+Changed-By: Your Name <your.email@example.com>
+Description:
+ ros-jazzy-rmw-dds-common - Dummy package to satisfy dependencies for ros-jazzy-rmw-dds-commo
+Changes:
+ ros-jazzy-rmw-dds-common (0.0.1) unstable; urgency=low
+ .
+   * First version
+Checksums-Sha1:
+ bf1dde18e51addf53ad98f8b08d4466f65d59aa5 2034 ros-jazzy-rmw-dds-common_0.0.1_all.deb
+ 849b971112a6c30945be4c6c55f8acad37f811a5 8405 ros-jazzy-rmw-dds-common_0.0.1_amd64.buildinfo
+Checksums-Sha256:
+ 83346e4454b33e6d80b3fe2a820e20a5a582057ff49715b7fc2f8be213ace1d7 2034 ros-jazzy-rmw-dds-common_0.0.1_all.deb
+ 4ffd62a9d20526341c4dfc1b2a8beb0c27a090a03defbd049a213f73e7277877 8405 ros-jazzy-rmw-dds-common_0.0.1_amd64.buildinfo
+Files:
+ 24351b2f9cdef6b68eb08f1f9f1b3327 2034 misc optional ros-jazzy-rmw-dds-common_0.0.1_all.deb
+ 9fbdf6f7c75d897f7c79ff5d8a503438 8405 misc optional ros-jazzy-rmw-dds-common_0.0.1_amd64.buildinfo

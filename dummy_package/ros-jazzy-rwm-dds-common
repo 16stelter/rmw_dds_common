@@ -1,0 +1,9 @@
+Section: misc
+Priority: optional
+Standards-Version: 3.9.2
+
+Package: ros-jazzy-rmw-dds-common
+Version: 0.0.1
+Maintainer: Your Name <your.email@example.com>
+Description: Dummy package to satisfy dependencies for ros-jazzy-rmw-dds-common
+Provides: ros-jazzy-rmw-dds-common
